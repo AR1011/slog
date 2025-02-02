@@ -1,0 +1,4 @@
+{"level":"INFO","time":"Sun, 02 Feb 2025 13:35:03.793 UTC","timestamp":"2025-02-02T13:35:03.793193Z","msg":"Application started","args":{"env":"production","version":"1.0.0"}}
+{"level":"DBUG","time":"Sun, 02 Feb 2025 13:35:03.793 UTC","timestamp":"2025-02-02T13:35:03.793561Z","msg":"Configuration loaded","args":{"config_file":"config.yaml"}}
+{"level":"WARN","time":"Sun, 02 Feb 2025 13:35:03.793 UTC","timestamp":"2025-02-02T13:35:03.793639Z","msg":"High memory usage","args":{"memory_mb":1500,"threshold_mb":1000}}
+{"level":"EROR","time":"Sun, 02 Feb 2025 13:35:04.794 UTC","timestamp":"2025-02-02T13:35:04.794664Z","msg":"Database connection failed","args":{"error":"connection refused","last_attempt":"2025-02-02T13:35:04Z","retry_count":3}}

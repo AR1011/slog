@@ -1,0 +1,8 @@
+{"level":"INFO","time":"Sun, 02 Feb 2025 13:17:31.226 UTC","timestamp":"2025-02-02T13:17:31.226996Z","msg":"Application started","args":{}}
+{"level":"EROR","time":"Sun, 02 Feb 2025 13:17:31.227 UTC","timestamp":"2025-02-02T13:17:31.227293Z","msg":"Connection failed","args":{"error":"timeout","service":"database"}}
+{"level":"INFO","time":"Sun, 02 Feb 2025 13:32:16.503 UTC","timestamp":"2025-02-02T13:32:16.503392Z","msg":"Application started","args":{}}
+{"level":"EROR","time":"Sun, 02 Feb 2025 13:32:16.503 UTC","timestamp":"2025-02-02T13:32:16.503688Z","msg":"Connection failed","args":{"error":"timeout","service":"database"}}
+{"level":"INFO","time":"Sun, 02 Feb 2025 13:34:17.032 UTC","timestamp":"2025-02-02T13:34:17.032093Z","msg":"Application started","args":{}}
+{"level":"EROR","time":"Sun, 02 Feb 2025 13:34:17.032 UTC","timestamp":"2025-02-02T13:34:17.032408Z","msg":"Connection failed","args":{"error":"timeout","service":"database"}}
+{"level":"INFO","time":"Sun, 02 Feb 2025 13:35:02.247 UTC","timestamp":"2025-02-02T13:35:02.247676Z","msg":"Application started","args":{}}
+{"level":"EROR","time":"Sun, 02 Feb 2025 13:35:02.248 UTC","timestamp":"2025-02-02T13:35:02.24801Z","msg":"Connection failed","args":{"error":"timeout","service":"database"}}

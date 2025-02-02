@@ -1,0 +1,8 @@
+{"level":"INFO","time":"Sun, 02 Feb 2025 13:18:14.388 UTC","timestamp":"2025-02-02T13:18:14.388325Z","msg":"This goes to both console and file","args":{}}
+{"level":"EROR","time":"Sun, 02 Feb 2025 13:18:14.388 UTC","timestamp":"2025-02-02T13:18:14.388783Z","msg":"Critical system error","args":{"code":500}}
+{"level":"INFO","time":"Sun, 02 Feb 2025 13:19:51.394 UTC","timestamp":"2025-02-02T13:19:51.39424Z","msg":"This goes to both console and file","args":{}}
+{"level":"EROR","time":"Sun, 02 Feb 2025 13:19:51.394 UTC","timestamp":"2025-02-02T13:19:51.394514Z","msg":"Critical system error","args":{"code":500}}
+{"level":"INFO","time":"Sun, 02 Feb 2025 13:34:18.322 UTC","timestamp":"2025-02-02T13:34:18.322762Z","msg":"This goes to both console and file","args":{}}
+{"level":"EROR","time":"Sun, 02 Feb 2025 13:34:18.323 UTC","timestamp":"2025-02-02T13:34:18.323001Z","msg":"Critical system error","args":{"code":500}}
+{"level":"INFO","time":"Sun, 02 Feb 2025 13:35:03.438 UTC","timestamp":"2025-02-02T13:35:03.43851Z","msg":"This goes to both console and file","args":{}}
+{"level":"EROR","time":"Sun, 02 Feb 2025 13:35:03.438 UTC","timestamp":"2025-02-02T13:35:03.438796Z","msg":"Critical system error","args":{"code":500}}
