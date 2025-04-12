@@ -57,7 +57,7 @@ func pad(s string) string {
 }
 
 func GetTime() string {
-	return time.Now().UTC().Format("Mon, 02 Jan 2006 15:04:05.000 MST")
+	return time.Now().Format("2006-01-02 15:04:05.000")
 }
 
 type LogBuffer struct {

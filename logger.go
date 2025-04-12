@@ -118,8 +118,7 @@ func (s *SLogger) fatal(msg string, args ...interface{}) {
 	os.Exit(1)
 }
 
-func (s *SLogger) stat(uptime string, args ...interface{}) {
-	msg := "uptime: " + uptime
+func (s *SLogger) stat(msg string, args ...interface{}) {
 	s.writeLog(InfoLevel, "STAT", ColorGreen, msg, args...)
 }
 
@@ -307,11 +306,11 @@ func Fatal(msg string, args ...interface{}) {
 	Slog.fatal(msg, args...)
 }
 
-func Stat(uptime string, args ...interface{}) {
+func Stat(msg string, args ...interface{}) {
 	if Slog == nil {
 		return
 	}
-	Slog.stat(uptime, args...)
+	Slog.stat(msg, args...)
 }
 
 func Panic(msg string, args ...interface{}) {
